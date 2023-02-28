@@ -3,6 +3,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
+/// A painter that turns any path into a dashed path.
 class DashedPathPainter extends CustomPainter {
   /// The path that you should be dashed.
   ///
