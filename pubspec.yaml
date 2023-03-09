@@ -1,8 +1,7 @@
 name: dashed_path
 description: Converts any path into a dashed path.
 version: 1.0.0
-# TODO: Add homepage
-homepage:
+homepage: https://github.com/hnnngwdlch/dashed_path
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
