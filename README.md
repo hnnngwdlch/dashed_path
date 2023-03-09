@@ -62,8 +62,8 @@ size: const Size(100.0, 100.0),
 Have a look at the example folder for a complete usage example.
 
 You can define the following properties:
-| Property | Description |
-| ----------- | ----------- |
+| Property | Description | 
+| -------- | ----------- |
 | originalPath | The original path that should be converted to a dashed path. |
 | pathColor | The path's color. |
 | strokeWidth | The stroke width of the path. |
