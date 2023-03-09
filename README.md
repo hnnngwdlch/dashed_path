@@ -2,7 +2,7 @@ Turns any path into a dashed path.
 
 # Preview
 
-![dashed_path_preview](https://user-images.githubusercontent.com/57846029/224071734-bddbfaa0-49af-4b18-bfcf-fa40d46a8752.png)
+<img src="https://user-images.githubusercontent.com/57846029/224071734-bddbfaa0-49af-4b18-bfcf-fa40d46a8752.png"  width="400">
 
 # Usage
 
