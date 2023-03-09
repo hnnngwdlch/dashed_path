@@ -4,6 +4,21 @@ Turns any path into a dashed path.
 
 <img src="https://user-images.githubusercontent.com/57846029/224071734-bddbfaa0-49af-4b18-bfcf-fa40d46a8752.png"  width="400">
 
+# Installation
+
+Add this to your package's `pubspec.yaml` file:
+
+```
+dependencies:
+  dashed_path: ^1.0.0
+```
+
+# Import
+
+```dart
+import 'package:dashed_path/dashed_path.dart';
+```
+
 # Usage
 
 Basic usage example corresponding to the above shown preview:
